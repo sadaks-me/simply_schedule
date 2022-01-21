@@ -54,7 +54,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Mohamed Sadakathulla](https://avatars.githubusercontent.com/u/13837243?v=4&s=144)](https://github.com/sadaks-me)  | [![Arun Kumar](https://avatars.githubusercontent.com/u/86380954?v=4&s=144)](https://github.com/arunkumar-ml-ai)
+[![Mohamed Sadakathulla](https://avatars.githubusercontent.com/u/13837243?v=4&s=144)](https://github.com/sadaks-me)  | [![Arun Kumar](https://avatars.githubusercontent.com/u/86380954?v=4&s=144)](https://github.com/sadaks-me)
 ---|---
 [Mohamed Sadakathulla](https://github.com/arunkumar-ml-ai) |[Arun Kumar](https://github.com/arunkumar-ml-ai)
 
