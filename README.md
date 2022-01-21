@@ -32,12 +32,6 @@ To fix a bug or enhance, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
 
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/sadaks-me/simply_schedule/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/sadaks-me/simply_schedule/issues/new). Please include sample queries and their corresponding results.
-
 
 ## Built with 
 
