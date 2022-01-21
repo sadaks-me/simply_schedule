@@ -15,10 +15,7 @@ iOS :  https://apps.apple.com/in/app/simply-schedule/id1604057482
 
 
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/13837243/150495564-e4228c22-2849-40f9-b947-645e3a6850c3.png" height="400" alt="Screen1"/> 
-<img src=“https://user-images.githubusercontent.com/13837243/150495600-721687f0-a05a-4430-bbe0-f9e0b6870fb9.png" height="400" alt="Screen2"/>
-<img src=“https://user-images.githubusercontent.com/13837243/150495624-f6ff71d8-a542-4529-8cc5-d51d7277f879.png" height="400" alt="Screen3"/>
-
+<img width="982" alt="Screenshot 2022-01-21 at 4 22 57 PM" src="https://user-images.githubusercontent.com/13837243/150515082-71a96b6b-b77d-4c1f-ab98-88c0365930a6.png">
 
 ## [Usage](https://github.com/sadaks-me/simply_schedule) 
 
